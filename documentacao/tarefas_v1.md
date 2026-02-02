@@ -1,0 +1,43 @@
+# Tarefas: Seletor de Afiliados (V1.0)
+
+- [x] Project Setup <!-- id: 0 -->
+    - [x] Create project directory and initialize Next.js app <!-- id: 1 -->
+    - [x] Setup global CSS variables for premium/neon aesthetic <!-- id: 2 -->
+    - [x] Create basic project structure (components, pages, styles) <!-- id: 3 -->
+- [x] Core Features Implementation <!-- id: 4 -->
+    - [x] Implement Landing Page <!-- id: 5 -->
+    - [x] Implement Authentication Mock (Producer/Affiliate) <!-- id: 6 -->
+    - [x] Create Producer Dashboard (Post Product) <!-- id: 7 -->
+    - [x] Create Affiliate Dashboard (Browse Products) <!-- id: 8 -->
+    - [x] Implement Ad placeholders (Monetization) <!-- id: 9 -->
+- [x] UI/UX Polish <!-- id: 10 -->
+    - [x] Add animations and hover effects <!-- id: 11 -->
+    - [x] Ensure responsive design <!-- id: 12 -->
+- [x] Verification <!-- id: 13 -->
+    - [x] Verify navigation flow <!-- id: 14 -->
+    - [x] Verify mobile responsiveness <!-- id: 15 -->
+- [x] deployment <!-- id: 16 -->
+    - [x] Configure Static Export for Live Server <!-- id: 17 -->
+    - [x] Create clean Python server script <!-- id: 18 -->
+- [x] Iteration 2: Full Features <!-- id: 19 -->
+    - [x] **Feature 1: Authentication System** <!-- id: 20 -->
+        - [x] Create `AuthContext` (localStorage persistence) <!-- id: 21 -->
+        - [x] Create Login/Register Page <!-- id: 22 -->
+        - [x] Protect Producer/Affiliate routes <!-- id: 23 -->
+    - [x] **Feature 2: Product Details** <!-- id: 24 -->
+        - [x] Create Product Database Service (Mock) <!-- id: 25 -->
+        - [x] Create Product Details Page (`/product`) <!-- id: 26 -->
+        - [x] Add "Buy/Affiliate" actions <!-- id: 27 -->
+    - [x] **Feature 3: Mobile Polish** <!-- id: 28 -->
+        - [x] Adjust Grid Layouts for Mobile <!-- id: 29 -->
+        - [x] Improve Touch Targets <!-- id: 30 -->
+        - [x] Add Mobile Menu (Hamburger) <!-- id: 31 -->
+- [x] Iteration 3: Final Polish (V1.0) <!-- id: 32 -->
+    - [x] **Feature 4: My Affiliations** <!-- id: 33 -->
+        - [x] Create 'My Products' page for Affiliates <!-- id: 34 -->
+        - [x] Persist affiliations in localStorage <!-- id: 35 -->
+    - [x] **Feature 5: Profile Settings** <!-- id: 36 -->
+        - [x] Create Profile Page (Edit Name/Bio) <!-- id: 37 -->
+    - [x] **Feature 6: UX Enhancements** <!-- id: 38 -->
+        - [x] Replace alerts with Toast Notifications <!-- id: 39 -->
+        - [x] Add 'Vercel Deploy' button/guide <!-- id: 40 -->
